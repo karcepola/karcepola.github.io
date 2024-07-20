@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://karcepola.github.io/sitemap
+Sitemap: https://karcepola.github.io/app/sitemap
+Sitemap: https://karcepola.github.io/assets/sitemap
+Sitemap: https://karcepola.github.io/css/sitemap
+Sitemap: https://karcepola.github.io/includes/sitemap
+Sitemap: https://karcepola.github.io/item/sitemap
+Sitemap: https://karcepola.github.io/src/sitemap
